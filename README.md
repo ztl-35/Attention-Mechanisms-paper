@@ -1,0 +1,3 @@
+# Attention-Mechanisms-paper
+注意力机制on自然语言处理文章整理笔记
+链接：http://note.youdao.com/noteshare?id=a3e5f6c259f8c91c66ae765d3def21e1&sub=59417FF3C81441E692E092F60C841273 这个是通过阅读大牛知乎和博客等自己总结的attention机制
